@@ -4,9 +4,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![Beta](https://img.shields.io/badge/Status-Beta-blue.svg)](https://github.com/mdlopresti/loom-weft/releases)
+[![Beta](https://img.shields.io/badge/Status-Beta-blue.svg)](https://github.com/mdlopresti/loom-shuttle/releases)
 
-Shuttle is the CLI tool for [Loom](../../README.md) — submit work, manage agents, and monitor your fleet from the terminal.
+Shuttle is the CLI tool for [Loom](https://github.com/mdlopresti/loom) — submit work, manage agents, and monitor your fleet from the terminal.
 
 > **🔷 Beta Software**: This project has passed integration testing and is suitable for early adopters. Core functionality is stable. Feedback welcome!
 
@@ -388,9 +388,9 @@ This is **beta software** ready for early adopters. Known limitations include:
 
 ## Related
 
-- **[Loom](../../README.md)** — Complete multi-agent infrastructure
-- **[Warp](../../warp/README.md)** — MCP server for agent messaging
-- **[Weft](../README.md)** — Coordinator service
+- **[Loom](https://github.com/mdlopresti/loom)** — Complete multi-agent infrastructure
+- **[Warp](https://github.com/mdlopresti/loom-warp)** — MCP server for agent messaging
+- **[Weft](https://github.com/mdlopresti/loom-weft)** — Coordinator service
 
 ## License
 
