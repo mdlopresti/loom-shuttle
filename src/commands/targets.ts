@@ -4,7 +4,7 @@
 
 import { Command } from 'commander';
 import ora from 'ora';
-import type { SpinUpMechanism, AgentType, Boundary } from '@loom/shared';
+import type { SpinUpMechanism, AgentType, Boundary } from '@mdlopresti/loom-shared';
 import { loadConfig } from '../utils/config-file.js';
 import { createAPIClient } from '../api/client.js';
 import {

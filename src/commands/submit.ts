@@ -4,7 +4,7 @@
 
 import { Command } from 'commander';
 import ora from 'ora';
-import type { Priority } from '@loom/shared';
+import type { Priority } from '@mdlopresti/loom-shared';
 import { loadConfig } from '../utils/config-file.js';
 import { createAPIClient } from '../api/client.js';
 import { output, success, error, info, formatKeyValue } from '../utils/output.js';

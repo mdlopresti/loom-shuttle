@@ -6,8 +6,8 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { homedir } from 'os';
 import { join } from 'path';
-import type { CLIConfiguration } from '@loom/shared';
-import { DEFAULT_CLI_CONFIG } from '@loom/shared';
+import type { CLIConfiguration } from '@mdlopresti/loom-shared';
+import { DEFAULT_CLI_CONFIG } from '@mdlopresti/loom-shared';
 
 const CONFIG_DIR = join(homedir(), '.loom');
 const CONFIG_FILE = join(CONFIG_DIR, 'config.json');

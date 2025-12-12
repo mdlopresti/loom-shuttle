@@ -7,7 +7,7 @@ import type {
   Boundary,
   SpinUpMechanism,
   Priority,
-} from '@loom/shared';
+} from '@mdlopresti/loom-shared';
 
 /**
  * Prompt for work boundary

@@ -4,7 +4,7 @@
  * HTTP client for communicating with Weft coordinator REST API.
  */
 
-import type { CLIConfiguration } from '@loom/shared';
+import type { CLIConfiguration } from '@mdlopresti/loom-shared';
 
 export interface APIClientOptions {
   baseUrl: string;

@@ -3,7 +3,7 @@
  */
 
 import { Command } from 'commander';
-import type { CLIConfiguration } from '@loom/shared';
+import type { CLIConfiguration } from '@mdlopresti/loom-shared';
 import {
   loadConfig,
   setConfigValue,
